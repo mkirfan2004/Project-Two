@@ -17,7 +17,11 @@ This project is a Student Management System developed using:
 1. Clone repository  
 2. Open backend project in Visual Studio  
 3. Run API using Swagger  
-4. Open frontend using Live Server  
+4. Open frontend using Live Server 
+
+## 🌐 Live Demo
+Frontend Live Server:
+http://127.0.0.1:5500/index.html
 
 ## 👨‍💻 Developer
 Irfan
